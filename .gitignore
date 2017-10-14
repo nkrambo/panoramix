@@ -1,5 +1,5 @@
 node_modules
-coverage
 .yarnclean
 yarn-error.log
 npm-debug.log
+/semantic/dist

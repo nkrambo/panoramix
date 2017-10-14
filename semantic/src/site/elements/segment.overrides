@@ -1,0 +1,12 @@
+
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui { // semantic entry
+
+  // stripe
+  &.vertical.stripe {
+    padding: 8em 0;
+  }
+}
