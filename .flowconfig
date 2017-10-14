@@ -1,0 +1,6 @@
+
+[include]
+/app
+
+[ignore]
+.*/node_modules/.*
